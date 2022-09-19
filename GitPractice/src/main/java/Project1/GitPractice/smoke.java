@@ -8,4 +8,8 @@ public class smoke {
 	public void smokedemo() {
 		System.out.println("smoke demo is here");
 	}
+	
+	public void smokedemo1() {
+		System.out.println("second change");
+	}
 }
